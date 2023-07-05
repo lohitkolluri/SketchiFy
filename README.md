@@ -14,7 +14,7 @@ This Jupyter Notebook application allows you to convert an input image to a penc
 1. Clone the repository or download the Jupyter Notebook file:
 
    ```bash
-   git clone https://github.com/lohitkolluri/CodeClause_Image_to_Pencil_Sketch_App.git
+   git clone https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App.git
    ```
 
 2. Install the required libraries:
